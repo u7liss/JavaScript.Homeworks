@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+	font-family: sans-serif;
+	height: 100vh;
+	background-color: darkgrey;
+	text-align: center; 
+	 display: flex;
+	flex-direction: column;
+	text-align: center;
+	gap: 10px; 
+	padding-top: 40px;
+	font-size: 20px;
+	color: white;
+}
+.product-image{
+	width: 200px;
+	margin-bottom: 40px;
+}
+.product-title{
+	margin-bottom: 30px;
+}
+
+	
