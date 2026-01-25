@@ -1,0 +1,53 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	color: #1d1d1d;
+}
+
+.course {
+	border: 1px solid #beb9b9;;
+	padding: 15px;
+	margin: 25px;
+	background-color: #f5f3f3;
+}
+
+.property {
+	margin-bottom: 10px;
+	width: 100%;
+}
+
+.property-title {
+	overflow: hidden;
+	font-weight: bold;
+	margin-bottom: 5px;
+	background-color: #fff;
+	padding: 5px;
+}
+
+ul.modules-list {
+	list-style-type: disc;
+	padding-left: 20px;
+}
+
+ul.modules-list li {
+	background-color: #fff;
+	padding-left: 10px;
+	margin-bottom: 5px;
+	color: #434242;
+}
+
+.box {
+	margin-right: 14px;
+	width: 30%;
+	float: left;
+}
+
+.box1 {
+	margin: auto;
+}
