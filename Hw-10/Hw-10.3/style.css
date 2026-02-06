@@ -1,0 +1,16 @@
+body{
+	padding: 50px;
+}
+#userForm{
+	width: 200px;
+	margin-bottom: 30px;
+	border: 1px solid #b0a8a8;
+	padding: 25px;
+	background-color: #ccc;
+}
+input{
+	margin-bottom: 10px;
+}
+#result{
+	padding: 20px;
+}
